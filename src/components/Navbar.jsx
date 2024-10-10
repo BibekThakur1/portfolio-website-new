@@ -18,7 +18,7 @@ const Navbar = () => {
         }}>
           <img src="src/assets/logo1.png" alt="logo" className="w-9 h-9 object-contain" />
           <p className="text-white text-[18px] font-bold cursor-pointer">
-            <span className="sm:block hidden">Bibek Thakur</span>
+            <span className="sm:block hidden"></span>
           </p>
         </Link>
 
